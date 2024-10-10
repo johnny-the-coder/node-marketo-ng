@@ -1,6 +1,6 @@
 {
   "name": "node-marketo-rest-client-ng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A client library for handling REST requests to Marketo",
   "repository": {
     "type": "git",
